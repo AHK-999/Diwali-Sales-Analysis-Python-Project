@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that analyzes **Diwali sales data** to understand **customer behavior, product performance, and sales trends** using **Python for data analysis, SQL for business querying, and Power BI for interactive visualization**.
 
-<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/afaf5e09-af65-4dee-9f94-b98b7e9c1a58" />
+![Dashboard PNG](https://github.com/user-attachments/assets/c855bea2-f7f7-42af-9d2f-31ec8f9bfa74)
 
 
 ## 📌 Project Overview
